@@ -1,6 +1,8 @@
-message: "%kickmsg%"
-servername: "server2"
-mode: whitelist
-list:
+message: "We've moved you from server %old_server% to %new_server% because '%kick_reason%'"
+servers:
+  - hub1
+  - hub2
+  - hub3
+exemptions:
 - ban
 - kick

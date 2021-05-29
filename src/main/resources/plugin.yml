@@ -1,4 +1,4 @@
 name: MoveMeNow
-main: net.craftminecraft.bungee.movemenow.MoveMeNow
-version: ${pom.version}-${build.number}
-author: roblabla
+main: nl.ward.movemenow.MoveMeNow
+version: ${pom.version}
+author: WardPieters
